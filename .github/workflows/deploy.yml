@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: epicStore
+  RESOURCE_GROUP_NAME: epicstore
 
   # specify your preferred region
   REGION: westus
